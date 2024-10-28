@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sergiu.varga\\Desktop\\All\\College\\Year3\\fac-year-3\\FCPL\\Assignment5\\Assignment5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C64197A3-FB58-4E84-816A-279EEF20AE0D}|Assignment5.csproj|c:\\users\\sergiu.varga\\desktop\\all\\college\\year3\\fac-year-3\\fcpl\\assignment5\\assignment5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64197A3-FB58-4E84-816A-279EEF20AE0D}|Assignment5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64197A3-FB58-4E84-816A-279EEF20AE0D}|Assignment5.csproj|c:\\users\\sergiu.varga\\desktop\\all\\college\\year3\\fac-year-3\\fcpl\\assignment5\\assignment5\\genericstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64197A3-FB58-4E84-816A-279EEF20AE0D}|Assignment5.csproj|solutionrelative:genericstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericStack.cs",
+              "DocumentMoniker": "C:\\Users\\sergiu.varga\\Desktop\\All\\College\\Year3\\fac-year-3\\FCPL\\Assignment5\\Assignment5\\GenericStack.cs",
+              "RelativeDocumentMoniker": "GenericStack.cs",
+              "ToolTip": "C:\\Users\\sergiu.varga\\Desktop\\All\\College\\Year3\\fac-year-3\\FCPL\\Assignment5\\Assignment5\\GenericStack.cs",
+              "RelativeToolTip": "GenericStack.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAhwBUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:38:49.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sergiu.varga\\Desktop\\All\\College\\Year3\\fac-year-3\\FCPL\\Assignment5\\Assignment5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sergiu.varga\\Desktop\\All\\College\\Year3\\fac-year-3\\FCPL\\Assignment5\\Assignment5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAFsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:02:13.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
