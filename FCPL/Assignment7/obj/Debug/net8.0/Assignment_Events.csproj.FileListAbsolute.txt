@@ -1,0 +1,15 @@
+C:\Users\sergiu.varga\Desktop\All\College\Year3\fac-year-3\FCPL\Assignment7\bin\Debug\net8.0\Assignment_Events.exe
+C:\Users\sergiu.varga\Desktop\All\College\Year3\fac-year-3\FCPL\Assignment7\bin\Debug\net8.0\Assignment_Events.deps.json
+C:\Users\sergiu.varga\Desktop\All\College\Year3\fac-year-3\FCPL\Assignment7\bin\Debug\net8.0\Assignment_Events.runtimeconfig.json
+C:\Users\sergiu.varga\Desktop\All\College\Year3\fac-year-3\FCPL\Assignment7\bin\Debug\net8.0\Assignment_Events.dll
+C:\Users\sergiu.varga\Desktop\All\College\Year3\fac-year-3\FCPL\Assignment7\bin\Debug\net8.0\Assignment_Events.pdb
+C:\Users\sergiu.varga\Desktop\All\College\Year3\fac-year-3\FCPL\Assignment7\obj\Debug\net8.0\Assignment_Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergiu.varga\Desktop\All\College\Year3\fac-year-3\FCPL\Assignment7\obj\Debug\net8.0\Assignment_Events.AssemblyInfoInputs.cache
+C:\Users\sergiu.varga\Desktop\All\College\Year3\fac-year-3\FCPL\Assignment7\obj\Debug\net8.0\Assignment_Events.AssemblyInfo.cs
+C:\Users\sergiu.varga\Desktop\All\College\Year3\fac-year-3\FCPL\Assignment7\obj\Debug\net8.0\Assignment_Events.csproj.CoreCompileInputs.cache
+C:\Users\sergiu.varga\Desktop\All\College\Year3\fac-year-3\FCPL\Assignment7\obj\Debug\net8.0\Assignment_Events.sourcelink.json
+C:\Users\sergiu.varga\Desktop\All\College\Year3\fac-year-3\FCPL\Assignment7\obj\Debug\net8.0\Assignment_Events.dll
+C:\Users\sergiu.varga\Desktop\All\College\Year3\fac-year-3\FCPL\Assignment7\obj\Debug\net8.0\refint\Assignment_Events.dll
+C:\Users\sergiu.varga\Desktop\All\College\Year3\fac-year-3\FCPL\Assignment7\obj\Debug\net8.0\Assignment_Events.pdb
+C:\Users\sergiu.varga\Desktop\All\College\Year3\fac-year-3\FCPL\Assignment7\obj\Debug\net8.0\Assignment_Events.genruntimeconfig.cache
+C:\Users\sergiu.varga\Desktop\All\College\Year3\fac-year-3\FCPL\Assignment7\obj\Debug\net8.0\ref\Assignment_Events.dll

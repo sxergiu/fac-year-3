@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sergiu.varga\\Desktop\\All\\College\\Year3\\fac-year-3\\FCPL\\Assignment7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment7.csproj|c:\\users\\sergiu.varga\\desktop\\all\\college\\year3\\fac-year-3\\fcpl\\assignment7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment7.csproj|c:\\users\\sergiu.varga\\desktop\\all\\college\\year3\\fac-year-3\\fcpl\\assignment7\\charlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment7.csproj|solutionrelative:charlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment7.csproj|c:\\users\\sergiu.varga\\desktop\\all\\college\\year3\\fac-year-3\\fcpl\\assignment7\\inputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment7.csproj|solutionrelative:inputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment7.csproj|c:\\users\\sergiu.varga\\desktop\\all\\college\\year3\\fac-year-3\\fcpl\\assignment7\\complexlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment7.csproj|solutionrelative:complexlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharListener.cs",
+              "DocumentMoniker": "C:\\Users\\sergiu.varga\\Desktop\\All\\College\\Year3\\fac-year-3\\FCPL\\Assignment7\\CharListener.cs",
+              "RelativeDocumentMoniker": "CharListener.cs",
+              "ToolTip": "C:\\Users\\sergiu.varga\\Desktop\\All\\College\\Year3\\fac-year-3\\FCPL\\Assignment7\\CharListener.cs",
+              "RelativeToolTip": "CharListener.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:49:45.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputReader.cs",
+              "DocumentMoniker": "C:\\Users\\sergiu.varga\\Desktop\\All\\College\\Year3\\fac-year-3\\FCPL\\Assignment7\\InputReader.cs",
+              "RelativeDocumentMoniker": "InputReader.cs",
+              "ToolTip": "C:\\Users\\sergiu.varga\\Desktop\\All\\College\\Year3\\fac-year-3\\FCPL\\Assignment7\\InputReader.cs",
+              "RelativeToolTip": "InputReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:49:41.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComplexListener.cs",
+              "DocumentMoniker": "C:\\Users\\sergiu.varga\\Desktop\\All\\College\\Year3\\fac-year-3\\FCPL\\Assignment7\\ComplexListener.cs",
+              "RelativeDocumentMoniker": "ComplexListener.cs",
+              "ToolTip": "C:\\Users\\sergiu.varga\\Desktop\\All\\College\\Year3\\fac-year-3\\FCPL\\Assignment7\\ComplexListener.cs",
+              "RelativeToolTip": "ComplexListener.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:49:38.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sergiu.varga\\Desktop\\All\\College\\Year3\\fac-year-3\\FCPL\\Assignment7\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sergiu.varga\\Desktop\\All\\College\\Year3\\fac-year-3\\FCPL\\Assignment7\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:46:49.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
