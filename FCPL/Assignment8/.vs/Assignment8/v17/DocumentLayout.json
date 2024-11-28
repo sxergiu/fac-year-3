@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sergiu.varga\\Desktop\\All\\College\\Year3\\fac-year-3\\FCPL\\Assignment8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{122B02AE-28A4-49F2-A657-3BF22FBDAD14}|Assignment8.csproj|c:\\users\\sergiu.varga\\desktop\\all\\college\\year3\\fac-year-3\\fcpl\\assignment8\\tamagotchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{122B02AE-28A4-49F2-A657-3BF22FBDAD14}|Assignment8.csproj|solutionrelative:tamagotchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122B02AE-28A4-49F2-A657-3BF22FBDAD14}|Assignment8.csproj|c:\\users\\sergiu.varga\\desktop\\all\\college\\year3\\fac-year-3\\fcpl\\assignment8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{122B02AE-28A4-49F2-A657-3BF22FBDAD14}|Assignment8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122B02AE-28A4-49F2-A657-3BF22FBDAD14}|Assignment8.csproj|c:\\users\\sergiu.varga\\desktop\\all\\college\\year3\\fac-year-3\\fcpl\\assignment8\\inputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{122B02AE-28A4-49F2-A657-3BF22FBDAD14}|Assignment8.csproj|solutionrelative:inputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tamagotchi.cs",
+              "DocumentMoniker": "C:\\Users\\sergiu.varga\\Desktop\\All\\College\\Year3\\fac-year-3\\FCPL\\Assignment8\\Tamagotchi.cs",
+              "RelativeDocumentMoniker": "Tamagotchi.cs",
+              "ToolTip": "C:\\Users\\sergiu.varga\\Desktop\\All\\College\\Year3\\fac-year-3\\FCPL\\Assignment8\\Tamagotchi.cs",
+              "RelativeToolTip": "Tamagotchi.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAhwDkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:06:31.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sergiu.varga\\Desktop\\All\\College\\Year3\\fac-year-3\\FCPL\\Assignment8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sergiu.varga\\Desktop\\All\\College\\Year3\\fac-year-3\\FCPL\\Assignment8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:05:16.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputReader.cs",
+              "DocumentMoniker": "C:\\Users\\sergiu.varga\\Desktop\\All\\College\\Year3\\fac-year-3\\FCPL\\Assignment8\\InputReader.cs",
+              "RelativeDocumentMoniker": "InputReader.cs",
+              "ToolTip": "C:\\Users\\sergiu.varga\\Desktop\\All\\College\\Year3\\fac-year-3\\FCPL\\Assignment8\\InputReader.cs",
+              "RelativeToolTip": "InputReader.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:06:21.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\sergiu.varga\\Desktop\\All\\College\\Year3\\fac-year-3\\FCPL\\Assignment7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment7.csproj|c:\\users\\sergiu.varga\\desktop\\all\\college\\year3\\fac-year-3\\fcpl\\assignment7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment_Events.csproj|c:\\users\\sergiu.varga\\desktop\\all\\college\\year3\\fac-year-3\\fcpl\\assignment7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment_Events.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment7.csproj|c:\\users\\sergiu.varga\\desktop\\all\\college\\year3\\fac-year-3\\fcpl\\assignment7\\charlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment7.csproj|solutionrelative:charlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment_Events.csproj|c:\\users\\sergiu.varga\\desktop\\all\\college\\year3\\fac-year-3\\fcpl\\assignment7\\charlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment_Events.csproj|solutionrelative:charlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment7.csproj|c:\\users\\sergiu.varga\\desktop\\all\\college\\year3\\fac-year-3\\fcpl\\assignment7\\inputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment7.csproj|solutionrelative:inputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment_Events.csproj|c:\\users\\sergiu.varga\\desktop\\all\\college\\year3\\fac-year-3\\fcpl\\assignment7\\inputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment_Events.csproj|solutionrelative:inputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment7.csproj|c:\\users\\sergiu.varga\\desktop\\all\\college\\year3\\fac-year-3\\fcpl\\assignment7\\complexlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment7.csproj|solutionrelative:complexlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment_Events.csproj|c:\\users\\sergiu.varga\\desktop\\all\\college\\year3\\fac-year-3\\fcpl\\assignment7\\complexlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC6B297-80FC-46F1-A8D0-D33A28A04703}|Assignment_Events.csproj|solutionrelative:complexlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +38,7 @@
               "RelativeToolTip": "CharListener.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T12:49:45.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T12:49:45.319Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "InputReader.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T12:49:41.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T12:49:41.785Z"
             },
             {
               "$type": "Document",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "ComplexListener.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAxwAYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T12:49:38.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T12:49:38.565Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\sergiu.varga\\Desktop\\All\\College\\Year3\\fac-year-3\\FCPL\\Assignment7\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T11:46:49.042Z",
               "EditorCaption": ""
