@@ -1,0 +1,15 @@
+C:\Users\student-a305\Desktop\Assignment9FCPL\bin\Debug\net6.0\Assignment9FCPL.exe
+C:\Users\student-a305\Desktop\Assignment9FCPL\bin\Debug\net6.0\Assignment9FCPL.deps.json
+C:\Users\student-a305\Desktop\Assignment9FCPL\bin\Debug\net6.0\Assignment9FCPL.runtimeconfig.json
+C:\Users\student-a305\Desktop\Assignment9FCPL\bin\Debug\net6.0\Assignment9FCPL.dll
+C:\Users\student-a305\Desktop\Assignment9FCPL\bin\Debug\net6.0\Assignment9FCPL.pdb
+C:\Users\student-a305\Desktop\Assignment9FCPL\obj\Debug\net6.0\Assignment9FCPL.csproj.AssemblyReference.cache
+C:\Users\student-a305\Desktop\Assignment9FCPL\obj\Debug\net6.0\Assignment9FCPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student-a305\Desktop\Assignment9FCPL\obj\Debug\net6.0\Assignment9FCPL.AssemblyInfoInputs.cache
+C:\Users\student-a305\Desktop\Assignment9FCPL\obj\Debug\net6.0\Assignment9FCPL.AssemblyInfo.cs
+C:\Users\student-a305\Desktop\Assignment9FCPL\obj\Debug\net6.0\Assignment9FCPL.csproj.CoreCompileInputs.cache
+C:\Users\student-a305\Desktop\Assignment9FCPL\obj\Debug\net6.0\Assignment9FCPL.dll
+C:\Users\student-a305\Desktop\Assignment9FCPL\obj\Debug\net6.0\refint\Assignment9FCPL.dll
+C:\Users\student-a305\Desktop\Assignment9FCPL\obj\Debug\net6.0\Assignment9FCPL.pdb
+C:\Users\student-a305\Desktop\Assignment9FCPL\obj\Debug\net6.0\Assignment9FCPL.genruntimeconfig.cache
+C:\Users\student-a305\Desktop\Assignment9FCPL\obj\Debug\net6.0\ref\Assignment9FCPL.dll
