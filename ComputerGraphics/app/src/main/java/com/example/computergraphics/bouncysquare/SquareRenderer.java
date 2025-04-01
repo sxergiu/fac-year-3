@@ -4,12 +4,23 @@ import javax.microedition.khronos.egl.EGLConfig;
 import javax.microedition.khronos.opengles.GL10;
 import android.opengl.GLSurfaceView;
 
+import android.content.Context;
+
+import android.graphics.*;
+import android.opengl.*;
+
+import com.example.computergraphics.R;
+
 public class SquareRenderer implements GLSurfaceView.Renderer
 {
     private final Square mSquare;
     private float mTransY;
 
-    public SquareRenderer() {
+    private Context context;
+
+    public SquareRenderer(Context context) {
+
+        this.context = context;
         mSquare = new Square();
         mTransY = 0;
     }
@@ -23,6 +34,8 @@ public class SquareRenderer implements GLSurfaceView.Renderer
         gl.glShadeModel(GL10.GL_SMOOTH);
         gl.glEnable(GL10.GL_DEPTH_TEST);
 
+        int resid = R.drawable.kkk;
+        mSquare.createTexture(gl, this.context, resid);
     }
 
     @Override
@@ -44,7 +57,7 @@ public class SquareRenderer implements GLSurfaceView.Renderer
 
         gl.glLoadIdentity();
         gl.glTranslatef(0.0f,(float)Math.sin(mTransY), -3.0f);
-        mTransY += 0.3f;
+        mTransY += 0.03f;
 
         gl.glEnableClientState(GL10.GL_VERTEX_ARRAY);
         gl.glEnableClientState(GL10.GL_COLOR_ARRAY);

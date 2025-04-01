@@ -13,6 +13,7 @@ public class Cube {
     private ByteBuffer mColorBuffer;
     private ByteBuffer mTFan1;
     private ByteBuffer mTFan2;
+    private FloatBuffer mNormalBuffer;
     public Cube() {
 
         float[] vertices =
@@ -70,15 +71,36 @@ public class Cube {
         mTFan2 = ByteBuffer.allocateDirect(tFan2.length);
         mTFan2.put(tFan2);
         mTFan2.position(0);
+
+
+        float[] normals =
+                {
+                        -1.0f/(float)Math.sqrt(3), 1.0f/(float)Math.sqrt(3), 1.0f/(float)Math.sqrt(3),
+                        1.0f/(float)Math.sqrt(3), 1.0f/(float)Math.sqrt(3), 1.0f/(float)Math.sqrt(3),
+                        1.0f/(float)Math.sqrt(3), -1.0f/(float)Math.sqrt(3), 1.0f/(float)Math.sqrt(3),
+                        -1.0f/(float)Math.sqrt(3), -1.0f/(float)Math.sqrt(3), 1.0f/(float)Math.sqrt(3),
+                        -1.0f/(float)Math.sqrt(3), 1.0f/(float)Math.sqrt(3), -1.0f/(float)Math.sqrt(3),
+                        1.0f/(float)Math.sqrt(3), 1.0f/(float)Math.sqrt(3), -1.0f/(float)Math.sqrt(3),
+                        1.0f/(float)Math.sqrt(3), -1.0f/(float)Math.sqrt(3), -1.0f/(float)Math.sqrt(3),
+                        -1.0f/(float)Math.sqrt(3), -1.0f/(float)Math.sqrt(3), -1.0f/(float)Math.sqrt(3)
+                };
+        ByteBuffer nbb = ByteBuffer.allocateDirect(normals.length * 4);
+        nbb.order(ByteOrder.nativeOrder());
+        mNormalBuffer = nbb.asFloatBuffer();
+        mNormalBuffer.put(normals);
+        mNormalBuffer.position(0);
     }
 
     public void draw(GL10 gl) {
 
-        gl.glFrontFace(GL11.GL_CW);
+        //gl.glFrontFace(GL11.GL_CW);
         gl.glVertexPointer(3, GL11.GL_FLOAT, 0, mFVertexBuffer);
         gl.glColorPointer(4, GL11.GL_UNSIGNED_BYTE, 0, mColorBuffer);
 
         gl.glDrawElements(  GL11.GL_TRIANGLE_FAN, 6 * 3, GL11.GL_UNSIGNED_BYTE, mTFan1);
         gl.glDrawElements( GL11.GL_TRIANGLE_FAN, 6 * 3, GL11.GL_UNSIGNED_BYTE, mTFan2);
+
+        gl.glNormalPointer(GL10.GL_FLOAT, 0, mNormalBuffer);
+        gl.glEnableClientState(GL10.GL_NORMAL_ARRAY);
     }
 }
