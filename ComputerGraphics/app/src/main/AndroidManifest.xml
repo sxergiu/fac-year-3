@@ -13,7 +13,7 @@
         android:theme="@style/Theme.ComputerGraphics"
         tools:targetApi="31" >
         <activity
-            android:name=".bouncycube.CubeActivity"
+            android:name=".bouncysquare.SquareActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.ComputerGraphics" >

@@ -5,9 +5,6 @@ import android.opengl.GLSurfaceView;
 import android.os.Bundle;
 import android.view.WindowManager;
 
-import com.example.computergraphics.helloworld.HelloWorldRenderer;
-
-
 public class SquareActivity extends Activity {
 
     @Override
